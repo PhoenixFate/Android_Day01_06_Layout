@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_Day01_06_Layout</string>
+    <string name="enterTelephone">请输入电话号码</string>
+    <string name="call">拨打</string>
+</resources>
